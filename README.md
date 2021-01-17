@@ -1,6 +1,6 @@
 ### FLASK-SINGLE-PAGE-APP
 
-<img src="https://img.shields.io/badge/Python-30%25-purple.svg">  <img src="https://img.shields.io/badge/JavaScript-25%25-green.svg">  <img src="https://img.shields.io/badge/CSS-30%25-blue.svg">  <img src="https://img.shields.io/badge/HTML-15%25-red.svg">
+<img src="https://img.shields.io/badge/Python-0.7%25-purple.svg">  <img src="https://img.shields.io/badge/JavaScript-4.1%25-green.svg">  <img src="https://img.shields.io/badge/CSS-30%25-blue.svg">  <img src="https://img.shields.io/badge/HTML-15%25-red.svg">
 
 This is an single page portfolio made using `flask`.
 
